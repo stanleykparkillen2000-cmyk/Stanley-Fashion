@@ -1,3 +1,4 @@
+
 # Stanley Fashion – E-Commerce Website
 
 ## Student Information
@@ -36,17 +37,10 @@ Stanley Fashion – No-Code E-Commerce Application Design Project
 ---
 
 ## Screenshots
+<img width="512" height="609" alt="Screenshot 2026-06-25 121027" src="https://github.com/user-attachments/assets/3305f778-71d8-4202-8434-c5f5712f3372" />
+<img width="1358" height="626" alt="Screenshot 2026-06-25 120953" src="https://github.com/user-attachments/assets/c88b77f1-92c6-4fad-a0c4-0df6ebd1cf0e" />
+<img width="1355" height="625" alt="Screenshot 2026-06-25 120926" src="https://github.com/user-attachments/assets/8c16c007-c64a-45a7-80dd-7a5dd75f65d6" />
 
-### Homepage
-<img width="1359" height="628" alt="Homepage Screenshot" src="https://github.com/user-attachments/assets/f130d4a7-66a3-4799-a6ad-e7d2489c0b75" />
-
-### Product Page
-<img width="369" height="650" alt="Product Page Screenshot" src="https://github.com/user-attachments/assets/3930bd4a-0367-47c8-a081-5da0b906516f" />
-
-### Contact Page
-<img width="1355" height="625" alt="Contact Page Screenshot" src="https://github.com/user-attachments/assets/8bae9a50-6d60-4715-87dc-a933698eee5f" />
-
----
 
 ## Challenges
 
