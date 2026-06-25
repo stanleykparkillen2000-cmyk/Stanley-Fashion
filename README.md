@@ -37,9 +37,13 @@ Stanley Fashion – No-Code E-Commerce Application Design Project
 ---
 
 ## Screenshots
-<img width="512" height="609" alt="Screenshot 2026-06-25 121027" src="https://github.com/user-attachments/assets/3305f778-71d8-4202-8434-c5f5712f3372" />
-<img width="1358" height="626" alt="Screenshot 2026-06-25 120953" src="https://github.com/user-attachments/assets/c88b77f1-92c6-4fad-a0c4-0df6ebd1cf0e" />
 <img width="1355" height="625" alt="Screenshot 2026-06-25 120926" src="https://github.com/user-attachments/assets/8c16c007-c64a-45a7-80dd-7a5dd75f65d6" />
+
+<img width="1358" height="626" alt="Screenshot 2026-06-25 120953" src="https://github.com/user-attachments/assets/c88b77f1-92c6-4fad-a0c4-0df6ebd1cf0e" />
+
+<img width="512" height="609" alt="Screenshot 2026-06-25 121027" src="https://github.com/user-attachments/assets/3305f778-71d8-4202-8434-c5f5712f3372" />
+
+
 
 
 ## Challenges
